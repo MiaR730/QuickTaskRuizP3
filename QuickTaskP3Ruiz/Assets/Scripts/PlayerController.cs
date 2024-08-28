@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rb2D;
-
     private float moveSpeed;
     private float jumpForce;
     private bool isJumping;
